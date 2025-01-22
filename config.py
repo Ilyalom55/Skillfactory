@@ -1,5 +1,5 @@
 
-TOKEN = '6355681250:AAENOAohTFgT5ohKQ2Z8qDTdcg-akwyKmtI'
+TOKEN = ''
 
 keys = {
     'рубль': 'RUB',
